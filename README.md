@@ -97,9 +97,8 @@ python -m streamlit run translang.py
 ```
 Demo Video
  Demo Video Link:
-https://drive.google.com/file/d/1lIvZHtfvcawjF2qS91x_63fxFabHilKY/view?usp=sharing
+https://drive.google.com/file/d/1B9iWLC_6BGqozw8fzpqaY7_gEhko-j9Z/view?usp=drive_link
 
-The demo video shows:
 
 Application execution
 
@@ -107,19 +106,6 @@ Text input and language selection
 
 Generated translated output
 
-## 🚀 Live Demo
-
-You can access the deployed application here:
-
-🔗 https://translingua-fwy6updl26wgchz89mqnna.streamlit.app
-he TransLingua AI-Powered Language Translator is deployed and accessible online.
-## Security Practices
-
-API keys are stored securely using environment variables
-
-.env and venv folders are excluded using .gitignore
-
-No sensitive or personal information is uploaded to GitHub
 
 ## Use Cases
 
