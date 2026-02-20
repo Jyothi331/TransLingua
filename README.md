@@ -97,9 +97,8 @@ python -m streamlit run translang.py
 ```
 Demo Video
  Demo Video Link:
-https://drive.google.com/file/d/1lIvZHtfvcawjF2qS91x_63fxFabHilKY/view?usp=sharing
+https://drive.google.com/file/d/1B9iWLC_6BGqozw8fzpqaY7_gEhko-j9Z/view?usp=drive_link
 
-The demo video shows:
 
 Application execution
 
